@@ -41,9 +41,4 @@
 
 
 <h2> My GitHub Stats </h2>
-<a href="https://github.com/skirupa/github-stats">
-
-![](https://github.com/skirupa/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/skirupa/github-stats/blob/master/generated/languages.svg)
-
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skirupa&show_icons=true&locale=en&layout=compact" alt="skirupa" /></p>
