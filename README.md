@@ -41,5 +41,9 @@
 
 
 <h2> My GitHub Stats </h2>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skirupa&repo=github-readme-stats)](https://github.com/skirupa/github-readme-stats)<br>
+<a href="https://github.com/skirupa/github-stats">
 
+![](https://github.com/skirupa/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/skirupa/github-stats/blob/master/generated/languages.svg)
+
+</a>
