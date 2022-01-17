@@ -41,7 +41,6 @@
 
 
 <h2> My GitHub Stats </h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skirupa&show_icons=true&locale=en" alt="skirupa" /></p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skirupa)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
