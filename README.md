@@ -41,6 +41,5 @@
 
 
 <h2> My GitHub Stats </h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skirupa)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skirupa&repo=github-readme-stats)](https://github.com/skirupa/github-readme-stats)<br>
 
