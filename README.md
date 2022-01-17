@@ -41,4 +41,6 @@
 
 
 <h2> My GitHub Stats </h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skirupa&show_icons=true&locale=en&layout=compact" alt="skirupa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skirupa&show_icons=true&locale=en&layout=compact" alt="skirupa" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=skirupa&show_icons=true&theme=radical" alt="skirupa" />
+</p>
