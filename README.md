@@ -16,8 +16,6 @@
 
 - 🔭 I’m currently working on Backend development
 
-- 🌱 I’m currently learning Data Engineering 
-
 - 👯 I’m looking to collaborate on Projects and Ideas 
 
 - 💬 Talk to me about  
